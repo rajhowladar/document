@@ -22,10 +22,12 @@ function App() {
         </div>
         <div className="illustration">
           <img
-            src="https://via.placeholder.com/300x200" // Placeholder image for now
+            src="/coinexchange.png" 
             alt="Credit Evaluation Illustration"
           />
         </div>
+        
+
       </main>
     </div>
   );
